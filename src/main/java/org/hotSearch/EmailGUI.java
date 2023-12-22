@@ -23,7 +23,7 @@ public class EmailGUI extends JFrame {
     private JTextField senderName;
     private static final String CONFIG_FILE_PATH = "email_Setting.json";
 /**
- * @description TODO
+ * @description TODO GUI绘画
  * @return
  * @author Albert_Luo
  * @date 2023/12/22 12:01
